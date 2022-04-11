@@ -8,7 +8,7 @@
 def main():
     # this function adds the sum of consecutive integers
 
-    # this is to keep track of hw many times you go through the loop
+    # this is to keep track of how many times you go through the loop
     loop_counter = 0
     total_sum = 0
 
